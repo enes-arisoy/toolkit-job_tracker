@@ -1,0 +1,81 @@
+.card {
+  background: #242424;
+  padding: 15px 10px;
+  border-radius: 10px;
+  box-shadow: 0 0 3px rgba(245, 245, 245, 0.3);
+  font-size: 16px;
+}
+.card .head {
+  display: flex;
+  justify-content: space-between;
+}
+.card .head > div {
+  display: flex;
+  gap: 20px;
+}
+.card .head .info {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.card .head h1 {
+  background: #2e8bca;
+  color: white;
+  display: grid;
+  place-items: center;
+  width: 50px;
+  height: 50px;
+  border-radius: 6px;
+  font-size: 30px;
+}
+.card .head .buttons {
+  display: flex;
+  align-items: center;
+}
+.card .head .buttons button {
+  font-size: 20px;
+  color: #898888;
+  transition: color 0.3s;
+  cursor: pointer;
+}
+.card .head .buttons button:hover {
+  color: white !important;
+}
+.card .line {
+  height: 1px;
+  background: #171717;
+  width: 90%;
+  margin: 10px auto;
+}
+.card .body {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-top: 15px;
+}
+.card .body svg {
+  color: rgba(255, 255, 255, 0.4);
+}
+.card .body p {
+  display: flex;
+  gap: 5px;
+}
+.card .body .bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.card .body .bottom span:nth-child(1) {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 14px;
+  white-space: nowrap;
+}
+.card .body .bottom span:nth-child(2) {
+  background: rgb(77, 76, 76);
+  padding: 5px 10px;
+  border-radius: 6px;
+  font-size: 15px;
+  white-space: nowrap;
+}/*# sourceMappingURL=card.module.css.map */

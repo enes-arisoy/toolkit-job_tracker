@@ -1,0 +1,11 @@
+.error {
+  text-align: center;
+  margin-top: 250px;
+}
+.error h2 {
+  font-size: large;
+}
+.error h3 {
+  font-size: medium;
+  margin-top: 10px;
+}/*# sourceMappingURL=error.module.css.map */

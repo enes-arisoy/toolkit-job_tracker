@@ -1,0 +1,41 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5px 20px 0 20px;
+  background-color: #171717;
+}
+@media (min-width: 900px) {
+  .header {
+    padding: 10px 20px 0 20px;
+  }
+  .header a {
+    padding: 25px 0 !important;
+  }
+}
+@media (max-width: 900px) {
+  .header h2 {
+    display: none;
+  }
+}
+.header div {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+.header div img {
+  width: 75px;
+}
+.header nav {
+  display: flex;
+  gap: 20px;
+}
+.header nav a {
+  padding: 15px 0;
+  color: rgba(255, 255, 255, 0.725);
+}
+
+.active {
+  color: white !important;
+  border-bottom: 2px solid #2e8bca;
+}/*# sourceMappingURL=header.module.css.map */

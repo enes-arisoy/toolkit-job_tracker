@@ -1,0 +1,91 @@
+{
+  "jobs": [
+    {
+      "position": "Product Manager",
+      "company": "IBM",
+      "location": "Redmond",
+      "status": "Continue",
+      "type": "Part Time",
+      "id": "5fb295d4-ffe7-48a0-bf1b-a6e4e95020d3",
+      "date": 1716607002428
+    },
+    {
+      "position": "Marketing Manager",
+      "company": "Microsoft",
+      "location": "Seattle",
+      "status": "Rejected",
+      "type": "Part Time",
+      "id": "d7c4d757-4957-488d-a7f2-f8db05aa2c46",
+      "date": 1318607013502,
+      "rejection_date": 1318607013502
+    },
+    {
+      "position": "Data Scientist",
+      "company": "Microsoft",
+      "location": "Menlo Park",
+      "status": "Interview",
+      "type": "Full Time",
+      "id": "7fb211e4-a53e-4804-b949-9a3d25b8e67c",
+      "date": 1712608152577,
+      "interview_date": 1712608152577,
+      "Interview Date": "2025-06-25T13:13"
+    },
+    {
+      "id": "3a48eef4-2850-4b8d-83a2-aed6b10b37f8",
+      "position": "Data Analyst",
+      "company": "Mimcode",
+      "location": "İstanbul",
+      "status": "Rejected",
+      "type": "Part Time",
+      "date": 1720552344626,
+      "rejection_date": 1720552344626
+    },
+    {
+      "position": "Softwatre Tester",
+      "company": "Amazon",
+      "location": "İstanbul, Türkiye",
+      "status": "Continue",
+      "type": "Full Time",
+      "date": "2024-12-06",
+      "id": "cQjjOZG"
+    },
+    {
+      "position": "Fullstack Developer",
+      "company": "Udemig",
+      "location": "İstanbul, Türkiye",
+      "status": "Interview",
+      "type": "Remote",
+      "interview_date": "2025-01-26T04:04",
+      "id": "v-bKA_8"
+    },
+    {
+      "position": "Frontend Developer",
+      "company": "Tesla",
+      "location": "Manhattan",
+      "status": "Interview",
+      "type": "Full Time",
+      "interview_date": "2025-05-05T17:25",
+      "id": "S2O54pV"
+    },
+    {
+      "id": "2ee1",
+      "position": "Frontend Developer",
+      "company": "Microsoft",
+      "location": "New York",
+      "status": "Continue",
+      "type": "Remote",
+      "date": "2025-05-04"
+    },
+    {
+      "id": "c294",
+      "position": "frontend",
+      "company": "Coca Cola",
+      "location": "Redmond",
+      "status": "Rejected",
+      "type": "Full Time",
+      "Application Date": "2025-06-11",
+      "Interview Date": "2025-06-26T15:21",
+      "Rejection Date": "2025-06-04"
+    }
+  ]
+}

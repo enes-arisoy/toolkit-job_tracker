@@ -1,0 +1,51 @@
+.formPage {
+  min-height: 90vh;
+  display: grid;
+  place-items: center;
+}
+.formPage section {
+  width: 70vw;
+  max-width: 600px;
+  box-shadow: 0 0 55px rgba(46, 140, 202, 0.4745098039);
+  padding: 25px;
+  margin-top: 20px;
+}
+@media (max-width: 600px) {
+  .formPage section {
+    width: 80vw;
+  }
+}
+.formPage section form {
+  display: grid !important;
+  gap: 25px;
+  margin-top: 20px;
+}
+
+.btnWrapper {
+  display: flex;
+  margin-top: 20px;
+}
+.btnWrapper button {
+  width: 100%;
+  padding: 10px;
+  background: #2e8cca;
+  font-size: 15px;
+  font-weight: 700;
+  text-transform: uppercase;
+  border-radius: 5px;
+  box-shadow: 0 4px 6px -1px rgba(72, 138, 236, 0.1921568627), 0 2px 4px -1px rgba(72, 138, 236, 0.0901960784);
+}
+.btnWrapper button:hover {
+  box-shadow: 0 10px 15px -3px rgba(72, 138, 236, 0.1921568627), 0 4px 6px -2px rgba(72, 138, 236, 0.0901960784);
+}
+
+.field {
+  display: flex;
+  flex-direction: column !important;
+}
+.field Input,
+.field select {
+  border-radius: 5px;
+  padding: 10px 15px;
+  margin-top: 5px;
+}/*# sourceMappingURL=form.module.css.map */
