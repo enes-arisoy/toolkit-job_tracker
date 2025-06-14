@@ -24,8 +24,8 @@ A powerful and clean Job Tracker application built using **React**, **Redux Tool
 
 ---
 
-## GitHub Link
-https://tinyurl.com/2j9r7aku
+## GitHub
+[GitHub Repo](https://github.com/enes-arisoy/toolkit-job_tracker.git)
 
 ---
 
